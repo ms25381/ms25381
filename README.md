@@ -8,7 +8,7 @@ I build production-grade data platforms and pipelines with a focus on reliabilit
 - LinkedIn: https://www.linkedin.com/in/john-sha-33134320a
 
 ## Start here
-- **Portfolio Index (recommended):** https://github.com/ms25381/portfolio  *(create next)*
+- **Portfolio Index (recommended):** [https://github.com/ms25381/portfolio  *(create next)*](https://github.com/ms25381/portfolio)
 
 ## What I’m good at
 - Designing **lakehouse/medallion** architectures and scalable pipelines (batch + streaming)
