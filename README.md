@@ -16,6 +16,15 @@ I build production-grade data platforms and pipelines with a focus on reliabilit
 - Implementing **data quality + diagnostics** (DQ rules, logging, run validation, alert-friendly outputs)
 - Modeling and processing **time-series / IoT** data for analytics and monitoring
 
+## Keywords (for search)
+Databricks Data Engineer, Databricks Platform Engineer, Azure Data Engineer, Data Platform Engineer, Streaming Data Engineer, IoT Data Engineer,
+Azure Databricks, Delta Lake, Unity Catalog, Databricks Workflows/Jobs, ADLS/ADLS Gen2, Azure Data Factory (ADF), Microsoft Purview, Qlik Replicate, Apache Iceberg,
+Spark, PySpark, Spark SQL, Python, SQL, CDC (Change Data Capture), SCD (Type 2), metadata-driven pipelines, data quality/observability, data validation,
+Kafka, Spark Structured Streaming, Kinesis, MSK, Lambda,
+Snowflake, dbt, Snowpipe, SnowSQL,
+Industrial IoT, OSI PI, AspenTech IP21, time-series analytics, TimeScaleDB, Seeq,
+Airflow, Control-M, SSIS, AWS Glue, AWS DMS, Azure DevOps
+
 ## Featured repositories (add links as you create them)
 - **portfolio** — index of all artifacts and writeups
 - **lakehouse-metadata-pipelines** — metadata-driven ETL generator + medallion reference
