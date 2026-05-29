@@ -12,7 +12,7 @@ My work centers on enterprise data engineering, lakehouse architecture, metadata
 ## Contact
 
 * Email: [ms25381@outlook.com](mailto:ms25381@outlook.com)
-* LinkedIn: https://www.linkedin.com/in/john-sha-33134320a
+* LinkedIn: https://www.linkedin.com/in/john-shia-33134320a
 * Portfolio Index: https://github.com/ms25381/portfolio
 
 ---
